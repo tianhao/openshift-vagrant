@@ -18,7 +18,7 @@
 
 OPENSHIFT_RELEASE = "3.11"
 OPENSHIFT_ANSIBLE_BRANCH = "release-#{OPENSHIFT_RELEASE}"
-NETWORK_BASE = "192.168.150"
+NETWORK_BASE = "192.168.57"
 INTEGRATION_START_SEGMENT = 101
 
 # All Vagrant configuration is done below. The "2" in Vagrant.configure
